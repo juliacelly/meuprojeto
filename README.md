@@ -1,2 +1,2 @@
-# Primeiro projeto NExt
+# Primeiro projeto NExT
 ## Primeiros Passos
